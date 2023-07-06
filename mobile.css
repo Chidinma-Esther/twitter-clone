@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    margin: 0;
+    font-size: 15px;
+}
+img{
+    width: 3rem;
+}
+hr{
+    width: 100%;
+    border: 1px solid grey;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.second-page{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 6px;
+}
+.sidebar-option{
+    display: none;
+}
+.sidebar{
+    display: none;
+}
+.for{
+    margin-top:10rem ;
+}
+.john-text,.uddy-text{
+    font-size: 0.9rem;
+}
+.forYou-hr{
+    border-bottom: 1px solid #0000FF;
+}
+.tweet-content,.dinma{
+    padding-left: 0;
+    margin-left: -0.9rem;
+}
+.subgroup{
+    color: #708090;
+    font-size: 13px;
+}
+.following{
+    display: none;
+    margin-left: 30px;
+}
+.divider{
+    display: none;
+}
+.elons{
+    display: none;
+    margin: 0;
+}
+.dinma{
+    display: inline-block;
+    width: 2.5rem;
+}
+.tweet-icon{
+    display: inline;
+margin-left: 110px;
+}
+.for{
+    font-size: 18px;
+    margin-left: 0;
+    margin-right: 80px;
+}
+.following{
+margin-right: 100px;
+    }
+.for-you-content{
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap ;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.for-you{
+    width: 60%;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+p{
+    font-size: 18px;
+}
+h1{
+    padding: 6px 12px 30px;
+}
+h2{
+    padding-top: 14px ;
+    padding-bottom: 14px;
+}
+
+h3
+{
+  padding-top: 28px;  
+}
+h4{
+    padding-bottom: 8px;
+}
+img{
+    width: 4rem;
+    border-radius: 50%;
+    margin-right: 20px;
+    
+    }
+.for{
+    margin: 12px 10px 12px 70px;
+    font-weight: 800;
+    font-size: 19px;
+    white-space: nowrap;
+    margin-right: 160px;
+} 
+
+.for-you-content{
+    padding-left: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sidebar-container{
+    display: flex;
+    align-items: center;
+    padding:0 30px ;
+    margin-top: 0;
+
+}
+.sidebar{
+    padding-top: 0;
+    margin-top: 0;
+}
+.icon{
+    padding-bottom: 50px;
+}
+.tweet-icon{
+    display: none;
+}
+.regular{
+    margin: 15px 0px;
+    margin-left: 0;
+}
+.fa-icon{
+    margin-left: 20px;
+    margin-right: 7px;
+}
+.fa-icon-active{
+    margin-right: 7px;
+}
+.material-icon{
+    margin-right:20px;
+}
+.Esther{
+    width: 3rem;
+    margin-top:  0.5rem;
+}
+.dinma{
+    display: none;
+}
+.me{
+    display: flex;
+    margin-top: 2rem;
+}
+
+.Anya{
+    padding-top: 12px ;
+}
+.tweet{
+    padding: 14px 55px;
+    margin-right: 5px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 25px;
+    background-color:  #5190fc;
+    font-size: 17px;
+    color: white;
+}
+.number{
+    margin-bottom: 30px;
+}
+
+.hack{
+    width: 15rem;
+    border-radius: 15px;
+    padding: 7px 0;
+
+}
+.sidebar-option{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.tweet-container{
+    display: flex;
+
+}
+.tweet-content{
+    display: flex;
+    padding-left: 10px;
+    margin-top: 16px;
+}
+.sidebar{
+    width: 30%;
+}
+.for-you{
+    width: 50%;  
+}
+.following{
+    width: 50%;
+}
+.search{
+    padding: 13px 90px 13px 25px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    margin:9px 30px 9px ;
+    
+    
+}
+.glass{
+    margin-right: 16px;
+}
+.trends-in-Nigeria{
+    margin-left: 30px;
+    background-color: rgb(238, 237, 237);
+    border-radius:15px;
+}
+.ends{
+    padding-left: 25px;
+}
+.nigeria{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.trending{
+padding: 15px 25px;
+font-size:20px ;
+}
+
+div.following > button#button{
+    margin: 1rem 0 .6rem 1rem;
+    width: 20rem;
+    padding: 1rem 3rem 1rem .2rem;
+    border: none;
+    border-radius: 2rem;
+    font-size: 15px;
+
+}
+
+.subgroup{
+    color: #708090;
+    font-size: 13px;
+}
